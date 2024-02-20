@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/lnq52t8atIw3m/giphy.gif" width="2000" height="400"/> <p align="right"><img src="https://komarev.com/ghpvc/?username=arking-xx&label=Profile%20views&color=0e75b6&style=flat" alt="arking-xx" /></p>
+<img src="https://media.giphy.com/media/lnq52t8atIw3m/giphy.gif" width="2000" height="400"/> <img align="right" src="https://komarev.com/ghpvc/?username=arking-xx&label=Profile%20views&color=0e75b6&style=flat" alt="arking-xx" />
 
 <h1 align="center">Hi 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dldnhjd3NlbnpxdG1kYWVxcnhnbmY2b3lvM2R4dDI2a21uZDl1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>, I'm Hark</h1> 
@@ -15,9 +15,9 @@
  📫 How to reach me **harkdevx@gmail.com**
 
 <h3 >Connect with me:</h3>
-<p >
+<p align="center">
+<a href="https://instagram.com/arking.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arking.x" height="30" width="40" /></a>
 </p>
-
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
