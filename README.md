@@ -1,16 +1,15 @@
 <img src="https://media.giphy.com/media/lnq52t8atIw3m/giphy.gif" width="2000" height="400"/> <p align="right"> <img src="https://komarev.com/ghpvc/?username=arking-xx&label=Profile%20views&color=0e75b6&style=flat" alt="arking-xx" /> </p>
 
 <h1 align="center">Hi 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dldnhjd3NlbnpxdG1kYWVxcnhnbmY2b3lvM2R4dDI2a21uZDl1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>, I'm Hark</h1>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dldnhjd3NlbnpxdG1kYWVxcnhnbmY2b3lvM2R4dDI2a21uZDl1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>, I'm Hark</h1> 
 <h3 align="center">A passionate frontend developer from Philippines  <img src="https://media.giphy.com/media/NpMOXmJNHFD3IO9Xto/giphy.gif" width="30"/></h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjkxZnBmeDg4d2Q3MmFldnJ0MDdwM2JkYTg4NXdicDJlZHMxbzVoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBrSH5C4ps9nyNDo4S/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZ2OGU3MnFpdXl3OXQ0dnhxczhsYWM2cDQ0bXZveXM5eTk0bXNkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zXN5MMd765MsF7K7o/giphy.gif" width="200"/>
 </div>
 
 <div id="header" align="center">
-<p > <img src="https://komarev.com/ghpvc/?username=arking-xx&label=Profile%20views&color=0e75b6&style=flat" alt="arking-xx" /> </p>
-
+  
  🌱 I’m currently learning **JavaScript, Tailwind**
 
  📫 How to reach me **harkdevx@gmail.com**
