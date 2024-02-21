@@ -13,10 +13,13 @@
 
 </div>
 
- - I’m currently learning **JavaScript, Tailwind**  
- 
- - How to reach me **harkdevx@gmail.com**
+
+<div align="left">
+  
+  :man_technologist: I’m currently learning **JavaScript, Tailwind**  
+  :email: How to reach me **harkdevx@gmail.com**
    
+   </div>
 <div align="left">
   <h2>Languages and Tools:</h2>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></a>
