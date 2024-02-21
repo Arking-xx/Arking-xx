@@ -16,9 +16,9 @@
 <br clear="both">
 
 
-<div align="left">
+<div align="center">
 
- <img align="right"  height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZ2OGU3MnFpdXl3OXQ0dnhxczhsYWM2cDQ0bXZveXM5eTk0bXNkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zXN5MMd765MsF7K7o/giphy.gif"  />
+ 
   <p>
     
   :man_technologist: I’m currently learning **JavaScript, Tailwind**  
@@ -28,6 +28,8 @@
 :yawning_face: Fun fact **I'm always sleepy.**
 
   </p>
+
+  <img   height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZ2OGU3MnFpdXl3OXQ0dnhxczhsYWM2cDQ0bXZveXM5eTk0bXNkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zXN5MMd765MsF7K7o/giphy.gif"  />
 <img  width="2000" height="40" src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966"/>
    </div>
 
