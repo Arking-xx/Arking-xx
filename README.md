@@ -2,7 +2,7 @@
 
 <div>
   
-<h2 align="center">Hi  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dldnhjd3NlbnpxdG1kYWVxcnhnbmY2b3lvM2R4dDI2a21uZDl1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>, I'm Hark<br>A student from the Philippines with dreams of becoming a future frontend developer.<img src="https://media.giphy.com/media/NpMOXmJNHFD3IO9Xto/giphy.gif" width="30"/> </h2>
+<h2 align="center">Hi  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dldnhjd3NlbnpxdG1kYWVxcnhnbmY2b3lvM2R4dDI2a21uZDl1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/>, I'm Hark<br>A student from the Philippines with dreams of becoming a future frontend developer.<img src="https://media.giphy.com/media/NpMOXmJNHFD3IO9Xto/giphy.gif" width="30"/> </h2>
 
 
 </div>
