@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNxbzd6bTh6djNrZDNzOTQ1eHQ5dXZ3NDh6aW1ld3V5MXl2bXh1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MzPlq2EwWRkDiwa5RX/giphy.gif" width="2000" height="400"/><img align="right" src="https://komarev.com/ghpvc/?username=arking-xx&label=Profile%20views&color=0e75b6&style=flat" alt="arking-xx"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNxbzd6bTh6djNrZDNzOTQ1eHQ5dXZ3NDh6aW1ld3V5MXl2bXh1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MzPlq2EwWRkDiwa5RX/giphy.gif" width="2000" height="400"/>
 
 <div>
   
