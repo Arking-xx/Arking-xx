@@ -4,11 +4,20 @@
 </div>
 
 
-<div >
-<img media="(min-width: 400px) and (display:none)" align="right" width="200" height="200" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif"/>
-<img media="(min-width: 400px) and (display:none)" align="left" width="200" height="200" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif"/>
-<br clear="both">
+<div>
+  <style>
+    @media (max-width: 483px) {
+      .responsive-img {
+        display: none;
+      }
+    }
+  </style>
+
+  <img class="responsive-img" align="right" width="200" height="200" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif"/>
+  <img class="responsive-img" align="left" width="200" height="200" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif"/>
+  <br clear="both">
 </div>
+
 
  <h4 align="center">As a computer science student in the Philippines,<br>my passion for technology has been ingrained in me since childhood. From a young age, <br> I've been fascinated by the endless possibilities that technology presents. I found joy in tinkering with gadgets, exploring computer programs, and discovering new technologies.	</h4> 	
  <br clear="both">
