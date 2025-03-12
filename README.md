@@ -4,9 +4,9 @@
 </div>
 
 
-<div media="(min-width: 400px) and (display:none)">
-<img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif"/>
-<img align="left" width="200" height="200" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif"/>
+<div >
+<img media="(min-width: 400px) and (display:none)" align="right" width="200" height="200" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif"/>
+<img media="(min-width: 400px) and (display:none)" align="left" width="200" height="200" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif"/>
 <br clear="both">
 </div>
 
