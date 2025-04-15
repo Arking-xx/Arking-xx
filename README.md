@@ -18,14 +18,11 @@
 
 
 
-<img  width="2000" height="40" src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966"/>
-
 <div align="center">
   <h3>Connect with me:</h3>
   <a href="https://instagram.com/arking.x" target="blank"> <img src="https://skillicons.dev/icons?i=instagram,discord" height="50" /></a>
- <img  width="2000" height="40" src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966"/>
-
 </div>
+
 <h3 align="center">Languages and Tools:</h3>
    <div align="center">
  <img  height="80" src="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667"/>
