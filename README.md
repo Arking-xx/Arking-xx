@@ -50,7 +50,6 @@
 **Tools**
 </p>
  <img src="https://skillicons.dev/icons?i=github,git,vscode,npm" height="50" />
-<img  width="2000" height="40" src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966"/>
 </a>
 </div>
 
