@@ -36,7 +36,7 @@
   #### Back-end
 
   
- <img src="https://skillicons.dev/icons?i=mongodb,express" height="50" />
+ <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express" height="50" />
  
 <div align="center">
 
