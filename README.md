@@ -12,7 +12,7 @@
 ### About me
 ```javascript
 {
-"nickName": "Arking",
+"nickname": "Arking",
 "status": "Currently studying",
 "realLaungauge": ["Filipino", "English"],
 "Hobby": ["playing games", "coding"],
