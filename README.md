@@ -3,27 +3,25 @@
  <h2></h2>
 </div>
 
-<div align="center">
-   <br clear="both">
- 
- **&nbsp;&nbsp;&nbsp;Hi there 👋,**
+
 
  
-  👯 0pen for collaboration.
-  
- 🌱 I’m currently learning **Frameworks**
- 
- 📫 How to reach me **harkdevx@gmail.com**
+ ## Hi there 👋,
 
 
-</div>
+### About me
+```javascript
+{
+"nickName": "Arking",
+"status": "Currently studying",
+"realLaungauge": ["Filipino", "English"],
+"Hobby": ["playing games", "coding"],
+"contact": "harkdevx@gmail.com",
+"description": "Open for collaboration",
+}
 
 
-
-
-
-
-
+```
 
 
 <div align="center">
