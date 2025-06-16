@@ -31,13 +31,18 @@
 
  #### Front-end
 
- <img src="https://skillicons.dev/icons?i=js,html,css,tailwind" height="50" />
+ <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap" height="50" />
+
+  #### Back-end
+
+  
+ <img src="https://skillicons.dev/icons?i=mongodb,express" height="50" />
  
 <div align="center">
 
  #### Tools
 
- <img src="https://skillicons.dev/icons?i=github,git,vscode,npm" height="50" />
+ <img src="https://skillicons.dev/icons?i=ubuntu,github,git,postman,vscode,npm,neovim" height="50" />
 
 <div align="center">
 </div>
