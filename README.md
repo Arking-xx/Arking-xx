@@ -18,10 +18,7 @@
 
 
 
-<div align="center">
-  <h3>Connect with me:</h3>
-  <a href="https://instagram.com/arking.x" target="blank"> <img src="https://skillicons.dev/icons?i=instagram,discord" height="50" /></a>
-</div>
+
 
 
 
