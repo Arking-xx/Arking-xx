@@ -39,12 +39,14 @@
 
   
  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express" height="50" />
+
+  <img src="https://skillicons.dev/icons?i=ubuntu,github,git,postman,npm,vscode,neovim" height="50" />
  
-<div align="center">
+<div align="r">
 
  #### Tools
 
- <img src="https://skillicons.dev/icons?i=ubuntu,github,git,postman,npm,vscode,neovim" height="50" />
+
 
 <div align="center">
 </div>
