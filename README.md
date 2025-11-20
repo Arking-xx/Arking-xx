@@ -17,9 +17,9 @@
 "nickname": "Arking",
 "status": "Currently studying",
 "language": ["Filipino", "English"],
-"hobby": ["playing games", "coding"],
+"hobby": ["playing video games", "coding", "drawing"],
 "contact": "harkdevx@gmail.com",
-"description": "Open for collaboration",
+"description": "Open for work and collaboration",
 }
 
 
