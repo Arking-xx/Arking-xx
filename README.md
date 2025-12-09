@@ -25,9 +25,6 @@
 
 ```
 
-
-<div align="">
- 
 <br clear="both">
  <br clear="both">
 
@@ -37,9 +34,8 @@
 
   #### Frameworks
  <img src="https://skillicons.dev/icons?i=react,express,tailwind,bootstrap" height="50" />
-<div align="">
+
 
  #### Tools
   <img src="https://skillicons.dev/icons?i=ubuntu,github,git,postman,npm,vscode,neovim,docker" height="50" />
 
-<div align="center">
