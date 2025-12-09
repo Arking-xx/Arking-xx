@@ -31,12 +31,12 @@
 <br clear="both">
  <br clear="both">
 
- #### Front-end
+ #### Programming Language
 
- <img src="https://skillicons.dev/icons?i=js,typescript,html,css,react,tailwind,bootstrap" height="50" />
+ <img src="https://skillicons.dev/icons?i=js,typecript,java,c++,python" height="50" />
 
-  #### Back-end
- <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,mysql" height="50" />
+  #### Frameworks
+ <img src="https://skillicons.dev/icons?i=react,express,tailwind,bootstrap" height="50" />
 <div align="">
 
  #### Tools
