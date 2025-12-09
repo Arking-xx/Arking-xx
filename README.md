@@ -41,6 +41,5 @@
 
  #### Tools
   <img src="https://skillicons.dev/icons?i=ubuntu,github,git,postman,npm,vscode,neovim,docker" height="50" />
-<div align="center">
-</div>
+
 <div align="center">
