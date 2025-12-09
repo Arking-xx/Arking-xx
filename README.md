@@ -33,10 +33,10 @@
 
  #### Programming Language
 
- <img src="https://skillicons.dev/icons?i=js,typecript,java,c++,python" height="50" />
+ <img src="https://skillicons.dev/icons?i=js,typscript,java,cpp,python" height="50" />
 
   #### Frameworks
- <img src="https://skillicons.dev/icons?i=react,express,tailwind,bootstrap" height="50" />
+ <img src="https://skillicons.dev/icons?i=react,express,tailwind,bootstrap,radix" height="50" />
 <div align="">
 
  #### Tools
