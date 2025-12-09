@@ -30,7 +30,7 @@
 
  #### Programming Language
 
- <img src="https://skillicons.dev/icons?i=js,typescript,java,cpp,python" height="50" />
+ <img src="https://skillicons.dev/icons?i=js,typescript,java,cpp,python,sql" height="50" />
 
   #### Frameworks
  <img src="https://skillicons.dev/icons?i=react,express,tailwind,bootstrap" height="50" />
