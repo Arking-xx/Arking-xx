@@ -36,7 +36,7 @@
  <img src="https://skillicons.dev/icons?i=js,typescript,java,cpp,python" height="50" />
 
   #### Frameworks
- <img src="https://skillicons.dev/icons?i=react,express,tailwind,bootstrap,tanstack" height="50" />
+ <img src="https://skillicons.dev/icons?i=react,express,tailwind,bootstrap" height="50" />
 <div align="">
 
  #### Tools
