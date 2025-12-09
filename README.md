@@ -35,6 +35,9 @@
   #### Frameworks
  <img src="https://skillicons.dev/icons?i=react,express,tailwind,bootstrap" height="50" />
 
+  #### Frameworks
+ <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50" />
+
 
  #### Tools
   <img src="https://skillicons.dev/icons?i=ubuntu,github,git,postman,npm,vscode,neovim,docker" height="50" />
