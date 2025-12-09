@@ -36,7 +36,7 @@
  <img src="https://skillicons.dev/icons?i=js,typescript,html,css,react,tailwind,bootstrap" height="50" />
 
   #### Back-end
- <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express" height="50" />
+ <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,mysql" height="50" />
 <div align="">
 
  #### Tools
