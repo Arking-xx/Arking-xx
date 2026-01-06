@@ -35,10 +35,10 @@
  <img src="https://skillicons.dev/icons?i=js,typescript,java,cpp,python,sql" height="50" />
 
   #### Frameworks
- <img src="https://skillicons.dev/icons?i=react,express,springboot,tailwind,bootstrap" height="50" />
+ <img src="https://skillicons.dev/icons?i=react,express,spring,tailwind,bootstrap" height="50" />
 
   #### Database 
- <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50" />
+ <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="50" />
 
 
  #### Tools
